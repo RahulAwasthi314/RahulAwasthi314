@@ -44,17 +44,17 @@
  </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
+<img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=dracula" alt="RahulAwasthi314" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAwasthi314&theme=dracula&layout=compact" alt="RahulAwasthi314" />
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/years/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/repos/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/commits/monthly/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://komarev.com/ghpvc/?username=RahulAwasthi314" alt=RahulAwasthi314 />
+<img src="https://badges.pufler.dev/visits/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
+<img src="https://badges.pufler.dev/years/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
+<img src="https://badges.pufler.dev/repos/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
+<img src="https://badges.pufler.dev/updated/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
+<img src="https://badges.pufler.dev/created/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
+<img src="https://badges.pufler.dev/commits/monthly/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
  </p>
