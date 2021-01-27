@@ -4,8 +4,8 @@
  </p>
  
 ### <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I am Rahul Awasthi from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
-## <h3 align="center">I'm a 2nd Year CSE Student, App Developer, Kubrenetes Enthusiast, Linux User<h3/>
- - ✌️ Currently Pursuing **B.Tech from PSIT Kanpur**
+## <h3 align="center">I am sophomor CSE student, App Developer, Kubrenetes Enthusiast, Linux User<h3/>
+ - ✌️ Currently Pursuing **BTech. from PSIT Kanpur**
 - 🔭 **I’m Currently Working on :**
 - [x] ![](https://img.shields.io/badge/Intelligence-yellow.svg?label=Artificial&style=social&logo=probot&logoColor=yellow)  
 - [x] ![](https://img.shields.io/badge/Learning-green.svg?label=Machine&style=social&logo=MusicBrainz&logoColor=informational)
