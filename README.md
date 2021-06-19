@@ -1,7 +1,4 @@
-![How](https://forthebadge.com/images/badges/built-by-developers.svg)
-<p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/github.gif" width="180px">
- </p>
+
  
 ### <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I am Rahul Awasthi from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
 ## <h3 align="center">I am sophomor CSE student, App Developer, Kubrenetes Enthusiast, Linux User<h3/>
