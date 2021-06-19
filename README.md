@@ -30,18 +30,6 @@
   <p/>
 </div>
 </body>
-   <br/>
- <h1 align="center">Languages and Tools:<h1/>
- <p align="center">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png">
-<img src="https://icons.iconarchive.com/icons/mattahan/umicons/72/Letter-C-icon.png">
-<img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/72/html-5-icon.png">
-<img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/64/Java-icon.png">
-<img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/64/Office-icon.png">
-<img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png">
-<img src="https://icons.iconarchive.com/icons/iconshock/real-vista-mail/64/robot-icon.png">
-<img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/64/Office-icon.png">
- </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=dracula" alt="RahulAwasthi314" />
