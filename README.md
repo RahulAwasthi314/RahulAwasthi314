@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=dracula" alt="RahulAwasthi314" />
+<img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=white" alt="RahulAwasthi314" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAwasthi314&theme=dracula&layout=compact" alt="RahulAwasthi314" />
