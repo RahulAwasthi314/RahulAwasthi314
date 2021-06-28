@@ -11,5 +11,4 @@
 <img src="https://badges.pufler.dev/repos/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
 <img src="https://badges.pufler.dev/updated/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
 <img src="https://badges.pufler.dev/created/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
-<img src="https://badges.pufler.dev/commits/monthly/RahulAwasthi314?&logo=github&logoColor=yellow" alt=RahulAwasthi314 />
  </p>
