@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=dark" alt="RahulAwasthi314" />
+<img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&theme=dark" alt="RahulAwasthi314" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAwasthi314&show_icons=true&theme=dark&layout=compact" alt="RahulAwasthi314" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAwasthi314&theme=dark&layout=compact" alt="RahulAwasthi314" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=RahulAwasthi314" alt=RahulAwasthi314 />
