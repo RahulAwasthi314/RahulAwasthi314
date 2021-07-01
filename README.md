@@ -17,5 +17,5 @@
 <img src="https://badges.pufler.dev/created/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=dark" alt=RahulAwasthi314 />
  </p>
 <p align="center">
- <script src="https://embed.github.com/view/3d/RahulAwasthi314/RahulAwasthi314/RahulAwasthi314-2021.stl"></script>
+ <script src="https://embed.github.com/view/3d/RahulAwasthi314/RahulAwasthi314/master/RahulAwasthi314-2021.stl"></script>
  </p>
