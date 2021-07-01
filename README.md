@@ -16,6 +16,3 @@
 <img src="https://badges.pufler.dev/updated/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=dark" alt=RahulAwasthi314 />
 <img src="https://badges.pufler.dev/created/RahulAwasthi314/RahulAwasthi314?&logo=github&logoColor=dark" alt=RahulAwasthi314 />
  </p>
-<p align="center">
- <script src="https://embed.github.com/view/3d/RahulAwasthi314/RahulAwasthi314/main/RahulAwasthi314-2021.stl"></script>
- </p>
