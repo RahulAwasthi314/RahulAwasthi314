@@ -1,5 +1,5 @@
 # My Github contributions as a game of life:
-[![GitHub Game of Life](https://github4life.herokuapp.com/RahulAwasthi314.gif?z=6)](https://github4life.herokuapp.com/RahulAwasthi314?tab=overview&from=2021-07-01&to=2021-07-06)
+[![GitHub Game of Life](https://github4life.herokuapp.com/RahulAwasthi314.gif?z=6)](https://github4life.herokuapp.com/RahulAwasthi314)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=dark" alt="RahulAwasthi314" />
 </p>
