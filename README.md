@@ -10,5 +10,5 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=rahulawasthi314&theme=dracula">
 </p>
-# My Github contributions as a game of life:
+
 [![GitHub Game of Life](https://github4life.herokuapp.com/rahulawasthi314.gif?z=6)](https://github4life.herokuapp.com/rahulawasthi314)
