@@ -12,10 +12,7 @@
 </p>
 
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/rahulawasthi314.gif?z=6)](https://github4life.herokuapp.com/rahulawasthi314)
+[![GitHub Game of Life](https://github4life.herokuapp.com/rahulawasthi314.svg?z=6)](https://github4life.herokuapp.com/rahulawasthi314)
 <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
  </p> 
-<p>
- <img src="https://github-readme-twitter-gazf.vercel.app/api?id=rahulawasthi314&layout=wide&show_reply=off&show_retweet=on">
-  </p>
