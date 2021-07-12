@@ -16,3 +16,6 @@
 <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
  </p> 
+<p>
+ <img src="https://github-readme-twitter-gazf.vercel.app/api?id=rahulawasthi314&layout=wide&show_reply=off&show_retweet=on">
+  </p>
