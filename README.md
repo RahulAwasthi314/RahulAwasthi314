@@ -10,5 +10,8 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=rahulawasthi314&theme=dracula">
 </p>
+<p align="center">
+  <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
+ </p> 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/rahulawasthi314.gif?z=6)](https://github4life.herokuapp.com/rahulawasthi314)
