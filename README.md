@@ -9,3 +9,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAwasthi314&theme=dark&layout=compact" alt="RahulAwasthi314" />
 </p>
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=rahulawasthi314&theme=dracula">
+</p>
