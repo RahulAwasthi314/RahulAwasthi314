@@ -4,6 +4,7 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAwasthi314&theme=dark&layout=compact" alt="RahulAwasthi314" />
+  <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
 </p>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=rahulawasthi314&theme=dracula">
@@ -12,5 +13,5 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/rahulawasthi314.gif?z=6)](https://github4life.herokuapp.com/rahulawasthi314)
 <p align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
+  
  </p> 
