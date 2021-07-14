@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=dark&layout=compact" alt="RahulAwasthi314" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulawasthi314&theme=dark&layout=compact"  />
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=RahulAwasthi314&show_icons=true&theme=dark&layout=compact" alt="RahulAwasthi314" />
+<img  width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulawasthi314&theme=dark&layout=compact"  />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAwasthi314&theme=dark&layout=compact" alt="RahulAwasthi314" />
